@@ -1,4 +1,6 @@
-Adapted from nrf9160 SDK, C:\ncs\zephyr\samples\sensor\dht
+Adapted from nrf9160 SDK, C:\\ncs\\zephyr\\samples\\sensor\\dht
+
+Prints temp amd humidity to serial port every 2 seconds
 
 Changes Made:
 
