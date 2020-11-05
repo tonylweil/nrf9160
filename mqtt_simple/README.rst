@@ -1,4 +1,4 @@
-Adapted from C:\ncs\nrf\samples\mqtt_simple
+Adapted from C:\\ncs\\nrf\samples\\mqtt_simple
 Followed instructions from here: https://www.jaredwolff.com/how-to-connect-nrf9160-feather-to-mosquitto/
 
 
